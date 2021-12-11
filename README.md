@@ -17,3 +17,6 @@ To achieve these aims we have implemented a methodology for estimating road ener
 The results of this research can help inform policy makers on the given situation for electric vehicles implementation and proliferation in the larger urban area of Zagreb city. More importantly, combined with the graphical user interface and custom routing algorithm, the outcomes of this research could provide electric vehicle users a valuable tool for optimizing their vehicle utilization.
 
 Keywords: NoSQL, C#, large datasets, traffic data analysis, road energy profiles, vehicle routing, road clustering, electric vehicles
+
+## Results
+ 
