@@ -1,4 +1,4 @@
-# Bachelor's 
+# Bachelor's thesis project
 This repository contains the C# source code of my Bachelor's  thesis project.
 
 ## Important
