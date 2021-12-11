@@ -18,5 +18,13 @@ The results of this research can help inform policy makers on the given situatio
 
 Keywords: NoSQL, C#, large datasets, traffic data analysis, road energy profiles, vehicle routing, road clustering, electric vehicles
 
-## Results
+## Results overview
+![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG "GUI")
+For the observed set of roads (links) the user can choose to visualize three types of data (link profiles) for each 5-minute time interval in the day:
+* Speed profile
+* Acceleration profile
+* Energy profile
+Additionally, the user can observe only the area of interest by drawing a rectangle on the map.
+Finally, the user can click on the map, and the data of a link that is nearest to the point where the user clicked will be visualized.
+![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gaccvelika.PNG "Acceleration profile of the road network in the user selected rectangle")
 ![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG "GUI")
