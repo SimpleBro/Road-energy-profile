@@ -44,7 +44,6 @@ In the Dijkstra panel, the user can choose to generate a least-cost path between
 Depending on the selected weright, the routing algorithm will calculate the least cost path from A to B and visualize the metadata to the user.
 The following images illustrate the routing algorithm results for the same start-destination route pair.
 
-<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG" alt="GUI" width="800"/>
-![alt-text-1](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Energy_M.PNG "Energy weight route visualization") ![alt-text-2](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_En_Data.PNG "Energy weight route metadata")
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Energy_M.PNG" alt="Energy weight route visualization" width="500"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Energy_M.PNG" alt="Energy weight route visualization" width="500"/>
 
 ![alt-text-1](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Spd_map.PNG "Speed weight route visualization") ![alt-text-2](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_spd_data.PNG "Speed weight route metadata")
