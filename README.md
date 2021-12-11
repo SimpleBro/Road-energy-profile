@@ -27,7 +27,7 @@ Keywords: NoSQL, C#, large datasets, traffic data analysis, road energy profiles
 
 The results are divided in three GUI panels:
 * General (Road profile visualization)
-* Dijkstra (Routing algorithm)
+* Dijkstra (Shortest path algorithm)
 * Cluster (K-Means road clustering)
 
 ### Road profile visualization
@@ -47,7 +47,7 @@ Additionally, the user can change the target Vehicle specifications which are us
 
 <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Car_Data.PNG" alt="Vehicle specifications altering" width="400" height="500"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Jadranski_Most_Sjever_WW_EN.PNG" alt="Energy road profile" width="400" height="500"/>
 
-### Routing algorithm
+### Shortest path algorithm
 In the Dijkstra panel, the user can choose to generate a least-cost path between two selected links in the observed 5-minute time interval. The user can select one of three types of edge weight:
 * Length
 * Energy
