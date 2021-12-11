@@ -32,8 +32,8 @@ The user can observe only the area of interest by drawing a rectangle on the map
 
 The user can click on the map, and the data of a link that is nearest to the point where the user clicked will be visualized.
 
-<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gaccvelika.PNG" alt="Acceleration profile of the road network in the user selected rectangle" width="800"/>
-<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gen_2.PNG" alt="User drawn rectangle" width="800"/>
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gaccvelika.PNG" alt="Acceleration profile of the road network in the user selected rectangle" width="1000"/>
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gen_2.PNG" alt="User drawn rectangle" width="1000"/>
 
 ### Routing algorithm
 In the Dijkstra panel, the user can choose to generate a least-cost path between two selected links in the observed 5-minute time interval. The user can select one of three types of edge weight:
@@ -44,6 +44,6 @@ In the Dijkstra panel, the user can choose to generate a least-cost path between
 Depending on the selected weright, the routing algorithm will calculate the least cost path from A to B and visualize the metadata to the user.
 The following images illustrate the routing algorithm results for the same start-destination route pair.
 
-<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Energy_M.PNG" alt="Energy weight route visualization" width="500"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Energy_M.PNG" alt="Energy weight route visualization" width="500"/>
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Energy_M.PNG" alt="Energy weight route visualization" width="600"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_En_Data.PNG" alt="Energy weight route metadata" width="600"/>
 
-![alt-text-1](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Spd_map.PNG "Speed weight route visualization") ![alt-text-2](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_spd_data.PNG "Speed weight route metadata")
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Spd_map.PNG" alt="Speed weight route visualization" width="600"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_spd_data.PNG" alt="Speed weight route metadata" width="600"/>
