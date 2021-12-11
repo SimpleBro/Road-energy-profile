@@ -20,7 +20,7 @@ The results of this research can help inform policy makers on the given situatio
 Keywords: NoSQL, C#, large datasets, traffic data analysis, road energy profiles, vehicle routing, road clustering, electric vehicles
 
 ## Results overview
-<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG" alt="GUI" width="1000" height="500"/>
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG" alt="GUI" height="500"/>
 
 ### Road profile visualization
 For the observed set of roads (links) the user can choose to visualize three types of data (link profiles) for each 5-minute time interval in the day:
@@ -32,8 +32,8 @@ The user can observe only the area of interest by drawing a rectangle on the map
 
 The user can click on the map, and the data of a link that is nearest to the point where the user clicked will be visualized.
 
-<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gaccvelika.PNG" alt="Acceleration profile of the road network in the user selected rectangle" width="1000" height="500"/>
-<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gen_2.PNG" alt="User drawn rectangle" width="1000" height="500"/>
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gaccvelika.PNG" alt="Acceleration profile of the road network in the user selected rectangle" height="500"/>
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gen_2.PNG" alt="User drawn rectangle" height="500"/>
 
 ### Routing algorithm
 In the Dijkstra panel, the user can choose to generate a least-cost path between two selected links in the observed 5-minute time interval. The user can select one of three types of edge weight:
@@ -46,4 +46,4 @@ The following images illustrate the routing algorithm results for the same start
 
 <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Energy_M.PNG" alt="Energy weight route visualization" width="500" height="500"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_En_Data.PNG" alt="Energy weight route metadata" width="500" height="500"/>
 
-<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Spd_map.PNG" alt="Speed weight route visualization" width="500"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_spd_data.PNG" alt="Speed weight route metadata" width="500"/>
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Spd_map.PNG" alt="Speed weight route visualization" width="500" height="500"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_spd_data.PNG" alt="Speed weight route metadata" width="500" height="500"/>
