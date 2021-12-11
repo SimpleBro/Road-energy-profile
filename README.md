@@ -21,6 +21,7 @@ Keywords: NoSQL, C#, large datasets, traffic data analysis, road energy profiles
 
 ## Results overview
 ![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG "GUI")
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG" alt="GUI" width="200"/>
 
 ### Road profile visualization
 For the observed set of roads (links) the user can choose to visualize three types of data (link profiles) for each 5-minute time interval in the day:
@@ -33,7 +34,7 @@ The user can observe only the area of interest by drawing a rectangle on the map
 The user can click on the map, and the data of a link that is nearest to the point where the user clicked will be visualized.
 
 ![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gaccvelika.PNG "Acceleration profile of the road network in the user selected rectangle")
-![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gen_2.PNG =100x100 "User drawn rectangle")
+![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gen_2.PNG "User drawn rectangle")
 
 ### Routing algorithm
 In the Dijkstra panel, the user can choose to generate a least-cost path between two selected links in the observed 5-minute time interval. The user can select one of three types of edge weight:
