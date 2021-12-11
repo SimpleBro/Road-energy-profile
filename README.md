@@ -20,7 +20,8 @@ The results of this research can help inform policy makers on the given situatio
 Keywords: NoSQL, C#, large datasets, traffic data analysis, road energy profiles, vehicle routing, road clustering, electric vehicles
 
 ## Results overview
-<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG" alt="GUI" width="500" height="500"/><img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/jutro_ww_en.PNG" alt="GUI" width="500" height="500"/>
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG" alt="GUI" height="500"/>
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/jutro_ww_en.PNG" alt="GUI" height="500"/>
 
 The results are divided in three GUI panels:
 * General (Road profile visualization)
@@ -37,11 +38,12 @@ The user can observe only the area of interest by drawing a rectangle on the map
 
 The user can click on the map, and the data of a link that is nearest to the point where the user clicked will be visualized.
 
-<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gaccvelika.PNG" alt="Acceleration profile of the road network in the user selected rectangle" width="500" height="500"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gen_2.PNG" alt="User drawn rectangle" width="500" height="500"/>
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gaccvelika.PNG" alt="Acceleration profile of the road network in the user selected rectangle" height="500"/> 
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gen_2.PNG" alt="User drawn rectangle" height="500"/>
 
 Additionally, the user can change the target Vehicle specifications which are used when computing the mathematical model.
 
-<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Car_Data.PNG" alt="Vehicle specifications altering" width="500" height="500"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Jadranski_Most_Sjever_WW_EN.PNG" alt="Energy road profile" width="500" height="500"/>
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Car_Data.PNG" alt="Vehicle specifications altering" width="550" height="500"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Jadranski_Most_Sjever_WW_EN.PNG" alt="Energy road profile" width="550" height="500"/>
 
 ### Routing algorithm
 In the Dijkstra panel, the user can choose to generate a least-cost path between two selected links in the observed 5-minute time interval. The user can select one of three types of edge weight:
