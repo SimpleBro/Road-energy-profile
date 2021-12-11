@@ -1,10 +1,6 @@
 # Bachlor's thesis
 This repository contains the C# source code of my Bachlor's thesis project.
 
-
-
-Map: C# Visualization via GMap.NET packet.
-
 ## Important
 * The main FCD (Floating Car Data) data set is confidential and thus is not included in the repository.
 * The GUI was created using the GMap.NET open source visualization packet.
