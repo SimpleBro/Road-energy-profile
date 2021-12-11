@@ -1,6 +1,7 @@
 # Bachelor's thesis project
 This repository contains the C# source code of my Bachelor's  thesis project.
-This project was my first "out of class" programming project.
+
+This project was my first "personal" programming project.
 
 ## Important
 * The main FCD (Floating Car Data) data set is confidential and thus is not included in the repository.
