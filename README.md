@@ -1,5 +1,5 @@
 # Bachelor's thesis project
-This repository contains the C# source code of my Bachelor's  thesis project.
+This repository contains the C# source code of my Bachelor's thesis project at the Department of Intelligent Transport Systems, University of Zagreb.
 
 This project was my first "personal" programming project.
 
