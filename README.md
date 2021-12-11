@@ -1,5 +1,5 @@
-# Bachlor's thesis
-This repository contains the C# source code of my Bachlor's thesis project.
+# Bachelor's 
+This repository contains the C# source code of my Bachelor's  thesis project.
 
 ## Important
 * The main FCD (Floating Car Data) data set is confidential and thus is not included in the repository.
