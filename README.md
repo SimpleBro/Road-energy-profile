@@ -4,7 +4,7 @@ This repository contains the C# source code of my Bachelor's thesis project at t
 This project was my first individual programming project.
 
 ## Important
-* The main FCD (Floating Car Data) data set is confidential and thus is not included in the repository.
+* The main FCD (Floating Car Data) data set is confidential and thus is not included in the repository. The set contains over 9 GB of vehicle GPS logs.
 * The data pre-processing is not included in the repository.
 * The GUI was created using the GMap.NET open source visualization packet.
 
