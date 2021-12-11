@@ -21,7 +21,7 @@ Keywords: NoSQL, C#, large datasets, traffic data analysis, road energy profiles
 
 ## Results overview
 ![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG "GUI")
-<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG" alt="GUI" width="200"/>
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG" alt="GUI" width="800"/>
 
 ### Road profile visualization
 For the observed set of roads (links) the user can choose to visualize three types of data (link profiles) for each 5-minute time interval in the day:
