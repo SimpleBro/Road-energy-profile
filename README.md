@@ -3,6 +3,7 @@ This repository contains the C# source code of my Bachlor's thesis project.
 
 ## Important
 * The main FCD (Floating Car Data) data set is confidential and thus is not included in the repository.
+* The data pre-processing is not included in the repository.
 * The GUI was created using the GMap.NET open source visualization packet.
 
 
@@ -20,11 +21,31 @@ Keywords: NoSQL, C#, large datasets, traffic data analysis, road energy profiles
 
 ## Results overview
 ![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG "GUI")
+
+### Road profile visualization
 For the observed set of roads (links) the user can choose to visualize three types of data (link profiles) for each 5-minute time interval in the day:
 * Speed profile
 * Acceleration profile
 * Energy profile
-Additionally, the user can observe only the area of interest by drawing a rectangle on the map.
-Finally, the user can click on the map, and the data of a link that is nearest to the point where the user clicked will be visualized.
+
+The user can observe only the area of interest by drawing a rectangle on the map. 
+
+The user can click on the map, and the data of a link that is nearest to the point where the user clicked will be visualized.
+
 ![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gaccvelika.PNG "Acceleration profile of the road network in the user selected rectangle")
-![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG "GUI")
+![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/gen_2.PNG "User drawn rectangle")
+
+### Routing algorithm
+In the Dijkstra panel, the user can choose to generate a least-cost path between two selected links in the observed 5-minute time interval. The user can select one of three types of edge weight:
+* Length
+* Energy
+* Speed
+
+Depending on the selected weright, the routing algorithm will calculate the least cost path from A to B and visualize the metadata to the user.
+The following images illustrate the routing algorithm results for the same start-destination route pair.
+
+![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Energy_M.PNG "Energy weight route visualization")
+![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_En_Data.PNG "Energy weight route metadata")
+
+![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Spd_map.PNG "Speed weight route visualization")
+![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_spd_data.PNG "Speed weight route metadata")
