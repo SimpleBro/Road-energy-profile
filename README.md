@@ -43,7 +43,7 @@ The user can click on the map, and the data of a link that is nearest to the poi
 
 Additionally, the user can change the target Vehicle specifications which are used when computing the mathematical model.
 
-<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Car_Data.PNG" alt="Vehicle specifications altering" width="550" height="500"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Jadranski_Most_Sjever_WW_EN.PNG" alt="Energy road profile" width="550" height="500"/>
+<img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Car_Data.PNG" alt="Vehicle specifications altering" width="500" height="500"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Jadranski_Most_Sjever_WW_EN.PNG" alt="Energy road profile" width="500" height="500"/>
 
 ### Routing algorithm
 In the Dijkstra panel, the user can choose to generate a least-cost path between two selected links in the observed 5-minute time interval. The user can select one of three types of edge weight:
