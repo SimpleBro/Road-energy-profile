@@ -22,6 +22,11 @@ Keywords: NoSQL, C#, large datasets, traffic data analysis, road energy profiles
 ## Results overview
 <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG" alt="GUI" height="500"/>
 
+The results are divided in three GUI panels:
+* General (Road profile visualization)
+* Dijkstra (Routing algorithm)
+* Cluster (K-Means road clustering)
+
 ### Road profile visualization
 For the observed set of roads (links) the user can choose to visualize three types of data (link profiles) for each 5-minute time interval in the day:
 * Speed profile
