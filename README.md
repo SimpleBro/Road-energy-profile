@@ -45,7 +45,9 @@ Depending on the selected weright, the routing algorithm will calculate the leas
 The following images illustrate the routing algorithm results for the same start-destination route pair.
 
 Energy edge weight:
+
 <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Energy_M.PNG" alt="Energy weight route visualization" width="500" height="500"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_En_Data.PNG" alt="Energy weight route metadata" width="500" height="500"/>
 
 Speed edge weight:
+
 <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_Spd_map.PNG" alt="Speed weight route visualization" width="500" height="500"/> <img src="https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/Dij_spd_data.PNG" alt="Speed weight route metadata" width="500" height="500"/>
