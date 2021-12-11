@@ -19,4 +19,4 @@ The results of this research can help inform policy makers on the given situatio
 Keywords: NoSQL, C#, large datasets, traffic data analysis, road energy profiles, vehicle routing, road clustering, electric vehicles
 
 ## Results
- 
+Markup : ![picture alt](https://github.com/SimpleBro/BachThesis_Project/blob/master/Bacc_Photos/guy_de_maupassant.PNG "Title is optional")
