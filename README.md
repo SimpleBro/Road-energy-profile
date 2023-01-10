@@ -1,7 +1,5 @@
 # Bachelor's thesis project
-This repository contains the C# source code of my Bachelor's thesis project at the Department of Intelligent Transport Systems, University of Zagreb.
-
-This project was my first individual programming project.
+This repository contains a Bachelor's thesis project C# source code; Department of Intelligent Transport Systems, University of Zagreb.
 
 ## Important
 * The main FCD (Floating Car Data) data set is confidential and thus is not included in the repository. The set contains over 9 GB of vehicle GPS logs.
